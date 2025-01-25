@@ -59,6 +59,14 @@ We got two files:
 
 <img src="photo3.png" width="400"/>
 
+We can see two users, markus and mateo.
+Now lets read files:
+
+`cat cat-original.jpg.out`
+`cat cat-hidden.jpg.out`
+
+
+
 
 
 
