@@ -45,6 +45,20 @@ We can see 2 photos, lets download them:
 
 <img src="photo2.png" width="500"/>
 
+Now lets try stenography
+
+```
+stegseek cat-hidden.jpg
+```
+
+```
+stegseek cat-original.jpg
+```
+
+We got two files:
+
+<img src="photo1.png" width="1000"/>
+
 
 
 
