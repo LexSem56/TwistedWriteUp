@@ -142,7 +142,9 @@ bonita@twisted:~$
 ```
 
 Lets download it, and use exiftool
+
 `exiftool beroot`:
+
 ```
 ExifTool Version Number         : 12.57
 File Name                       : beroot
