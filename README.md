@@ -65,6 +65,29 @@ Now lets read files:
 `cat cat-original.jpg.out`
 `cat cat-hidden.jpg.out`
 
+<img src="photo4.png" width="400"/>
+
+It seems like we have passwords now.
+Lets connect to markus on ssh port
+
+`ssh markus@192.168.1.66`
+
+We got connect and we see note.txt
+It says:
+
+`Hi bonita,
+I have saved your id_rsa here: /var/cache/apt/id_rsa
+Nobody can find it.`
+
+So lets try read id_rsa
+
+`cat: id_rsa: Permission denied`
+
+We cant read it, lets try linpeas
+
+`./linpeas.sh`
+
+
 
 
 
