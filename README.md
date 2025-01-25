@@ -5,4 +5,4 @@
   - Machine type: Linux VM <img src="https://hackmyvm.eu/img/linux.png" alt="Linux" width="20"/>
   - Machine difficulty: Easy
 
-<img src="" alt="Oliva Machine Logo" width="150"/>
+<img src="photo.png" alt="Twisted Logo" width="150"/>
