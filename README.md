@@ -42,7 +42,7 @@ We can see 2 photos, lets download them:
 `wget http://192.168.1.66/cat-hidden.jpg`
 
 
-<img src="photo1.png" width="1000"/>
+<img src="photo2.png" width="1000"/>
 
 
 
