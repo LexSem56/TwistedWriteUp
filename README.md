@@ -39,6 +39,7 @@ Go on the 80 port:
 We can see 2 photos, lets download them:
 
 `wget http://192.168.1.66/cat-original.jpg`
+
 `wget http://192.168.1.66/cat-hidden.jpg`
 
 
