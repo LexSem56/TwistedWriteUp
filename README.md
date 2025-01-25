@@ -34,7 +34,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Go on the 80 port:
 
-<img src="photo1.png" width="300"/>
+<img src="photo1.png" width="1000"/>
 
 
 
