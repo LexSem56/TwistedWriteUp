@@ -36,6 +36,15 @@ Go on the 80 port:
 
 <img src="photo1.png" width="1000"/>
 
+We can see 2 photos, lets download them:
+
+`wget http://192.168.1.66/cat-original.jpg`
+`wget http://192.168.1.66/cat-hidden.jpg`
+
+
+<img src="photo1.png" width="1000"/>
+
+
 
 
 
