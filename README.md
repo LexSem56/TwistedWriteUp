@@ -6,3 +6,12 @@
   - Machine difficulty: Easy
 
 <img src="photo.png" alt="Twisted Logo" width="300"/>
+
+`arp-scan -l`:
+```
+192.168.1.66	08:00:27:9b:d8:c8
+```
+
+
+
+
