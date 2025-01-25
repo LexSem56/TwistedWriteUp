@@ -163,10 +163,11 @@ Object File Type                : Shared object file
 CPU Type                        : AMD x86-64
 ```
 
-It's ELF shared library, so lets try ghidra
+It's ELF shared library, so lets try ghidra:
 
+<img src="photo6.png" width="400"/>
 
-
+We got the code, now you can log in as root and read root.txt, thank you for reading!
 
 
 
