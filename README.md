@@ -57,7 +57,7 @@ stegseek cat-original.jpg
 
 We got two files:
 
-<img src="photo1.png" width="1000"/>
+<img src="photo3.png" width="1000"/>
 
 
 
